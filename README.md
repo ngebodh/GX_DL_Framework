@@ -17,6 +17,11 @@ All acompanying code will be released upon publication.
 * Raw behavioral [CTT data](https://zenodo.org/record/4456079#.YOYCLuhKguW) `.csv` format
 * [Questionnaire data](https://zenodo.org/record/4456079/files/GX_Subject%20Info%20%26%20Behavioral%20Data.xlsx?download=1) in `.xlsx` format
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31016876/139349320-4344ba64-0bde-4f06-9db4-e0903d64e425.gif">
+</p>
+
+
 ## Acknowledgments
 
 Portions of this study were funded by X (formerly Google X), the Moonshot Factory. The funding source had no influence on study conduction or result evaluation. MB is further supported by grants from the National Institutes of Health: R01NS101362, R01NS095123, R01NS112996, R01MH111896, R01MH109289, and (to NG) NIH-G-RISE T32GM136499.
