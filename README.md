@@ -24,7 +24,7 @@ All acompanying code will be released upon publication.
 
 ## Acknowledgments
 
-Portions of this study were funded by X (formerly Google X), the Moonshot Factory. The funding source had no influence on study conduction or result evaluation. MB is further supported by grants from the National Institutes of Health: R01NS101362, R01NS095123, R01NS112996, R01MH111896, R01MH109289, and (to NG) NIH-G-RISE T32GM136499.
+Portions of this study were funded by X (formerly Google X), the Moonshot Factory. The funding source had no influence on study conduction or result evaluation. MB is supported by grants from Harold Shames and the National Institutes of Health: NIH-NIDA UG3DA048502, NIH-NIGMS T34 GM137858, NIH-NINDS R01 NS112996, and NIH-NINDS R01 NS101362. NG and MB are further supported by NIH-G-RISE T32GM136499. 
 
 
 ## Contact
