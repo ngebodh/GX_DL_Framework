@@ -1,2 +1,29 @@
-# GX_DL_Framework
-Supporting code for the GX Framework
+# A Scalable Framework for Closed-Loop Neuromodulation with Deep Learning
+
+This repository contains supporting code for the GX Framework. For an in-depth description of the framework and its detals please see the upcoming accompanying publication.
+
+A preview of this work can be seen below: 
+
+<p align="center">
+  <img src="https://github.com/ngebodh/GX_DL_Framework/blob/main/GX_DL_GIF_05132022_Short.gif">
+</p>
+All acompanying code will be released upon publication. 
+
+## Data availability
+##### All the data used for this work can be accessed below:
+* Raw [EEG, ECG, EOG data](https://zenodo.org/record/4456079#.YOYCLuhKguW) in `.cnt` formant
+* Raw [EEG, ECG, EOG data](https://openneuro.org/datasets/ds003670/versions/1.1.0) formated to comply with [BIDS](https://bids.neuroimaging.io/) standard where data are in `.set` format ([EEGlab](https://sccn.ucsd.edu/eeglab/index.php))
+* Raw downsampled EEG, ECG, EOG data (1k Hz) in `.mat` format for [Experiment 1](https://zenodo.org/record/3840615#.YOYKfehKguU) and [Experiment 2](https://zenodo.org/record/3840617#.YOYKj-hKguU) (works with [MATLAB](https://www.mathworks.com/help/matlab/ref/load.html) and [Python](https://scipy-cookbook.readthedocs.io/items/Reading_mat_files.html))
+* Raw behavioral [CTT data](https://zenodo.org/record/4456079#.YOYCLuhKguW) `.csv` format
+* [Questionnaire data](https://zenodo.org/record/4456079/files/GX_Subject%20Info%20%26%20Behavioral%20Data.xlsx?download=1) in `.xlsx` format
+
+## Acknowledgments
+
+Portions of this study were funded by X (formerly Google X), the Moonshot Factory. The funding source had no influence on study conduction or result evaluation. MB is further supported by grants from the National Institutes of Health: R01NS101362, R01NS095123, R01NS112996, R01MH111896, R01MH109289, and (to NG) NIH-G-RISE T32GM136499.
+
+
+## Contact
+
+Please feel free to reach out with any questions or suggestions.
+* Email: ngebodh01@citymail.cuny.edu
+* Twitter: [@ngebodh](https://twitter.com/nigelgebodh)
