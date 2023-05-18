@@ -1,6 +1,13 @@
 # A Scalable Framework for Closed-Loop Neuromodulation with Deep Learning
 
-This repository contains supporting code for the GX Framework. For an in-depth description of the framework and its detals please see the upcoming accompanying publication.
+This repository contains supporting code for the GX Framework.
+
+A Preprint of this work is publicly available [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9882307/). 
+ **Please cite this work as**:
+
+> Gebodh N, Miskovic V, Laszlo S, Datta A, Bikson M. A Scalable Framework for Closed-Loop Neuromodulation with Deep Learning. bioRxiv [Preprint]. 2023 Jan 20:2023.01.18.524615. doi: 10.1101/2023.01.18.524615. PMID: 36712027; PMCID: PMC9882307.
+
+
 
 A preview of this work can be seen below: 
 
